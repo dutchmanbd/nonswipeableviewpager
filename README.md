@@ -1,7 +1,7 @@
 # Non Swipeable Viewpager
 [![](https://jitpack.io/v/dutchmanbd/nonswipeableviewpager.svg)](https://jitpack.io/#dutchmanbd/nonswipeableviewpager)
 [![Build Status](https://travis-ci.org/dutchmanbd/nonswipeableviewpager.svg?branch=master)](https://travis-ci.org/dutchmanbd/nonswipeableviewpager)
-![GitHub](https://img.shields.io/github/license/dutchmanbd/nonswipeableviewpager)
+[![GitHub](https://img.shields.io/github/license/dutchmanbd/nonswipeableviewpager)](https://github.com/dutchmanbd/nonswipeableviewpager/blob/master/LICENSE)
 
 ## Get Started
 
