@@ -1,6 +1,7 @@
 # Non Swipeable Viewpager
 [![](https://jitpack.io/v/dutchmanbd/nonswipeableviewpager.svg)](https://jitpack.io/#dutchmanbd/nonswipeableviewpager)
 [![Build Status](https://travis-ci.org/dutchmanbd/nonswipeableviewpager.svg?branch=master)](https://travis-ci.org/dutchmanbd/nonswipeableviewpager)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b0e3951a3a684f379e62ede2102c67dd)](https://www.codacy.com/manual/dutchmanbd/nonswipeableviewpager?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dutchmanbd/nonswipeableviewpager&amp;utm_campaign=Badge_Grade)
 [![GitHub](https://img.shields.io/github/license/dutchmanbd/nonswipeableviewpager)](https://github.com/dutchmanbd/nonswipeableviewpager/blob/master/LICENSE)
 
 ## Get Started
